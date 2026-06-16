@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DevDadhania
-- 👀 I’m interested in Hardware, Softwer Development, Management.
+- 👋 Hi, I’m @Dev_Dadhania
+- 👀 I’m interested in Computer Hardware, DevOps, Softwer Development, Management.
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - devd11.work@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to explore new things.
 
